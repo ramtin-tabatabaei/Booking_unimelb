@@ -125,14 +125,3 @@ launchctl load ~/Library/LaunchAgents/com.unimelb.bot.plist
 ```
 
 ---
-
-## 📄 Logs
-
-Check the output (for debugging):
-
-```bash
-cat /tmp/bookingbot.log
-cat /tmp/bookingbot.err
-```
-
----
